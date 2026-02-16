@@ -1,0 +1,1 @@
+postgresql://pokemon_db_u8o6_user:8CoBfl453eEz0swsMtFJjSObqzfFt7Tr@dpg-d697ihd6ubrc73aeab50-a.oregon-postgres.render.com/pokemon_db_u8o6
